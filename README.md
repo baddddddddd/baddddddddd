@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [SanGawa](https://github.com/baddddddddd/SanGawa)
 
-- 🌱 I’m currently learning **Blockchain Development,**
+- 🌱 I’m currently learning **System Design, Blockchain Development, AI and Data Science**
+
+- 💬 Ask me about **nothing**
 
 - 📫 How to reach me **you can't**
 
