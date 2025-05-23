@@ -1,5 +1,5 @@
 # 💫 About Me:
-A (used-to-be) hobbyist programmer that does not want to work in the field of technology.
+A hobbyist programmer that likes doing everything from scratch.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/baddddddddd)](https://leetcode.com/baddddddddd)
 
