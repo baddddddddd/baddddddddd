@@ -1,7 +1,7 @@
 # 💫 About Me:
 just a hobbyist
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/baddddddddd)](https://leetcode.com/baddddddddd)
+![](https://leetcard.jacoblin.cool/baddddddddd?ext=contest)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/e1ux3.png" alt="Your Image Badge" />
 
